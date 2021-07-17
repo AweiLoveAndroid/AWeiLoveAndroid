@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=AWeiLoveAndroid)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AWeiLoveAndroid&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWeiLoveAndroid&layout=compact&theme=tokyonight" alt="languages" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AWeiLoveAndroid" alt="my github stats" height="195"  />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWeiLoveAndroid" alt="languages"  height="195" />
+</p>
+
 
 ![ViewCount](https://views.whatilearened.today/views/github/AWeiLoveAndroid/AWeiLoveAndroid.svg)
-
+![ViewCount](https://komarev.com/ghpvc/?username=AWeiLoveAndroid)
 
 - 🔭 I’m currently working on China.
 - 🌱 I’m currently using Android, Java, Kotlin, Dart, Flutter... 
