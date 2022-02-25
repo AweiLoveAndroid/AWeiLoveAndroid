@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ![ViewCount](https://views.whatilearened.today/views/github/AWeiLoveAndroid/AWeiLoveAndroid.svg)
 ![ViewCount](https://komarev.com/ghpvc/?username=AWeiLoveAndroid)
+![ViewCount](https://github-profile-trophy.vercel.app/?username=AWeiLoveAndroid&theme=onedark&column=3)
 
 - 🔭 I’m currently working on China.
 - 🌱 I’m currently using Android, Java, Kotlin, Dart, Flutter... 
