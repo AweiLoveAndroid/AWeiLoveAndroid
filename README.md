@@ -26,10 +26,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWeiLoveAndroid" alt="languages"  height="195" />
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AWeiLoveAndroid&theme=onedark&column=3" />
+</p>
+
 
 ![ViewCount](https://views.whatilearened.today/views/github/AWeiLoveAndroid/AWeiLoveAndroid.svg)
 ![ViewCount](https://komarev.com/ghpvc/?username=AWeiLoveAndroid)
-![ViewCount](https://github-profile-trophy.vercel.app/?username=AWeiLoveAndroid&theme=onedark&column=3)
+
 
 - 🔭 I’m currently working on China.
 - 🌱 I’m currently using Android, Java, Kotlin, Dart, Flutter... 
